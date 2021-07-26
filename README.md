@@ -88,8 +88,8 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 「Proxy」或「Gloabal」策略组是用于访问国际互联网的默认策略，一般情况下，所有国际网络的访问都通过该策略组中选择的节点进行连接。  
 
 ![](https://github.com/githubvpn007/ClashX/blob/main/images/6.png)   
-![](https://github.com/githubvpn007/ClashX/blob/main/images/7.png)   
-![](https://github.com/githubvpn007/ClashX/blob/main/images/8.png)   
+![](https://github.com/githubvpn007/ClashX/blob/main/images/7.jpg)   
+![](https://github.com/githubvpn007/ClashX/blob/main/images/8.jpg)   
 
 此时您已可以自由地连接国际互联网。
 
