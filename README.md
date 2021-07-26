@@ -165,9 +165,12 @@ Value for 'Proxy' is invalid:Unexpected null or empty`
 
 
 
+<br/>
 
 
 
+## 本项目不做VPN分享，如果您希望获得最佳的科学上网方案 [点击这里](https://github.com/githubvpn007/v2rayNvpn)  
 
+## 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
 
 
