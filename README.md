@@ -66,23 +66,23 @@ ClashX 是运行在 macOS 上的一款科学上网工具。
 ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程序用于设置系统代理，  
 否则每次你通过 ClashX 变更系统系统状态（打开或关闭）时都需要输入密码，请点击 “Install”，之后 macOS 会提示输入用户密码。  
 
-![](https://github.com/githubvpn007/ClashX/blob/main/images/1.jpg)  
+![](https://i.postimg.cc/XJjxn4vg/1.png)  
 
 
 **4.添加订阅**  
 
 启动 ClashX，点击状态栏中的 **ClashX 图标**，依次选择「配置」、「托管配置」、「管理」，在弹出的界面点击添加订阅。  
 
-![](https://github.com/githubvpn007/ClashX/blob/main/images/2.jpg)  
-![](https://github.com/githubvpn007/ClashX/blob/main/images/3.jpg)  
-![](https://github.com/githubvpn007/ClashX/blob/main/images/4.jpg)  
+![](https://i.postimg.cc/pXhCW0P3/2.png)  
+![](https://i.postimg.cc/W3583CFc/3.png)  
+![](https://i.postimg.cc/rsb9G4Nh/4.png)  
 
 
 **5.选中我们刚刚订阅生成的配置文件**  
 
 添加订阅若干秒后将在软件里看到刚刚添加的配置文件。
 
-![](https://github.com/githubvpn007/ClashX/blob/main/images/5.jpg)  
+![](https://i.postimg.cc/JzjQJGDq/5.png)  
 
 
 
@@ -92,9 +92,9 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 
 「Proxy」或「Gloabal」策略组是用于访问国际互联网的默认策略，一般情况下，所有国际网络的访问都通过该策略组中选择的节点进行连接。  
 
-![](https://github.com/githubvpn007/ClashX/blob/main/images/6.png)   
-![](https://github.com/githubvpn007/ClashX/blob/main/images/7.jpg)   
-![](https://github.com/githubvpn007/ClashX/blob/main/images/8.jpg)   
+![](https://i.postimg.cc/yxWPSjcg/6.png)   
+![](https://i.postimg.cc/y6rnzqCF/7.png)   
+![](https://i.postimg.cc/gkCDnvJj/8.png)   
 
 此时您已可以自由地连接国际互联网。
 
