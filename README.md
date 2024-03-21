@@ -49,7 +49,18 @@ ClashX 是运行在 macOS 上的一款科学上网工具。
 
 **1.下载安装**
 
-[下载地址](https://github.com/yichengchen/clashX/releases)  直接下载dmg文件安装即可  
+
+
+
+~~https://github.com/yichengchen/clashX/releases 官方项目已经下架~~  
+
+本站下载： 
+|  文件   | 说明  |
+|  ----  | ----  |
+| [ClashX.dmg](https://github.com/githubvpn007/ClashX/releases/download/ClashX/ClashX.zip)  | macOS 系统安装文件 |
+| [源文件压缩包 zip 版本](https://github.com/githubvpn007/ClashX/releases/download/ClashX/1.118.0.zip)  | 源文件压缩包 zip 版本 |
+| [Source code (tar.gz)](https://github.com/githubvpn007/ClashX/releases/download/ClashX/1.118.0.tar.gz)  | 源文件压缩包 tar.gz 版本 |
+
 
 
 **提示：** ClashXR是第三方修改版本，支持SSR协议。ClashX现已支持SSR协议。ClashXR已经完成了它的历史使命。建议直接使用ClashX最新版本。   
